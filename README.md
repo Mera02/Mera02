@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mera02" alt="mera02" /></a> </p>
 
-- 🔭 I’m currently working on [Affiliate marketing platform | REBLL NETWORK](private)
+- 🔭 I’m currently working on [Affiliate marketing platform | REBLL NETWORK](https://rebll.com/)
 
 - 🌱 I’m currently learning **Frontend frameworks (React), Figma for UI/UX design, and advanced Photoshop techniques.**
 
